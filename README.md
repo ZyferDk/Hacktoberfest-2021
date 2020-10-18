@@ -44,6 +44,7 @@ Who contributed to this repository :
   [Jason_Halverson]: <https://github.com/Halverson-Jason>
   [JustTalDevelops]: <https://github.com/JustTalDevelops>
   [Khalid]: <https://github.com/khalidjambi>
+  [Suraji]: <https://github.com/ZyferDk>
 
 ### Link
 
